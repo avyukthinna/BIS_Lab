@@ -70,4 +70,5 @@ def genetic_algorithm():
     print("\nBest Solution Found:")
     print(f"x = {final_solution:.4f}, f(x) = {objective_function(final_solution):.4f}")
 
+print("Avyukth Inna - 1BM22CSO060")
 genetic_algorithm()
