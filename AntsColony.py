@@ -95,5 +95,6 @@ iterations = 100
 
 aco_tsp = ACO_TSP(cities, num_ants, alpha, beta, rho, iterations)
 best_route, best_distance = aco_tsp.run()
+print("Avyukth Inna - 1BM22CSO060")
 print(f"Best route: {best_route}")
 print(f"Best distance: {best_distance}")
